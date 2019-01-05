@@ -4,16 +4,19 @@
 
 ### Aim
 
-The best app to chatt as of mid 2019
+_"Provide a free and private place for people to collaborate"_
 
 ### Contact
 
-[Shema Angelo](https://www.twitter.com/shema_angelo)
+* Twitter: [@shema_angelo](https://www.twitter.com/shema_angelo)
+* Instagram: [shemaangelo](https://www.instagram.com/shemaangelo)
+* Facebook: [Shema Angelo](https://www.facebook.com/mickyalien)
 
  ### Enterprise
  
- [Vix Devs](https://www.github.com/visdevs)
- Sorry, Github made a typo. Link to Repo at Github
+ [Vix Devs](https://www.github.com/visdevs) >Link to Repo at Github   
+ 
+ Sorry, Github made a typo.  
  
  ### Special Thanks
  

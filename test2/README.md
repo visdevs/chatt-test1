@@ -1,24 +1,26 @@
-# README
+# Chat
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## The best app to chat
 
-Things you may want to cover:
+### Aim
 
-* Ruby version
+The best app to chatt as of mid 2019
 
-* System dependencies
+### Contact
 
-* Configuration
+[Shema Angelo](https://www.twitter.com/shema_angelo)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ ### Enterprise
+ 
+ [Vix Devs](https://www.github.com/visdevs)
+ Sorry, Github made a typo. Link to Repo at Github
+ 
+ ### Special Thanks
+ 
+ * My Parents and Friends coz of support
+ * Classmates of S3 Ecole des Sciences
+ * GOD
+ 
+ ### Expected Launch
+ 
+ Mid-2019
